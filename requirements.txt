@@ -1,0 +1,9 @@
+anthropic
+openai
+streamlit
+pandas
+scikit-learn
+joblib
+pypdf
+python-docx
+openpyxl
